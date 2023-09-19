@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kavya-char
+- 👋 Hi, I’m @Charlie
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on ...
